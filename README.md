@@ -7,7 +7,7 @@ change username and password and database name.
 
 ### webservice
 
-adding folder webservice in folder and 
+adding folder webservice in folder task and 
 use this link 
 
 task/webservice/json.php?name=
