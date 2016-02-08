@@ -3,7 +3,7 @@ header("Content-Type:application/json");
 include("function.php");
 	//request (URL)
 	if(!empty ($_GET['name'])){
-	$_GET['name'] = str_replace('+', '', $_GET['name']);
+	$_GET['name'] = str_replace(' ', '', $_GET['name']);
 
 		$name = $_GET['name'];
 		
