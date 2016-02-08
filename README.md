@@ -1,2 +1,13 @@
 Welcome to the moves-api wiki!
 # How to Use
+
+adding folder task in host, 
+create database and import file task.sql on it,
+change username and password and database name.
+
+### webservice
+
+adding folder webservice in folder and 
+use this link 
+
+task/webservice/json.php?name=
